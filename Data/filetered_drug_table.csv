@@ -1,0 +1,59 @@
+﻿Drug ,Target pathway,Weight
+WWW,JAK/STAT ,1
+Sulindac,Wnt/β-catenin pathway,1
+Buspirone,GABAergic system,1
+Sertraline,BDNF,1
+Methylphenidate ,Wnt/β-catenin pathway,1
+Methylphenidate ,PI3K/AKT/mTOR,1
+Retinoic acid,Retinoic acid metabolism,1
+Rapamycin,PI3K/AKT/mTOR,1
+Cannabidiol,GABAergic system,1
+Curcumin,JAK/STAT ,1
+Luteolin,JAK/STAT ,1
+Sulforaphane,Nrf2 signaling,1
+RQG,TGF-β signaling,1
+Methylphenidate ,NotAvailable,1
+Atomoxetine ,NotAvailable,1
+Risperidone,GABAergic system,1
+Aripiprazole,GABAergic system,1
+Fluoxetine ,GABAergic system,1
+Clonazepam  ,GABAergic system,1
+Rapamycin,PI3K/AKT/mTOR,1
+Everolimus,PI3K/AKT/mTOR,1
+Tideglusib,Wnt/β-catenin pathway,1
+Dapt,Notch signaling,1
+EGCG,Notch signaling,1
+S3I-201,JAK/STAT ,1
+AG126,JAK/STAT ,1
+Pioglitazone,JAK/STAT ,1
+Mirdametinib,ERK/MAPK,1
+SL327,ERK/MAPK,1
+Tomivosertib,PI3K/AKT/mTOR,1
+Tomivosertib,ERK/MAPK,1
+Romidepsin,Wnt/β-catenin pathway,1
+Vorinostat,Chromatin remodeling,1
+Metformin,Mitochondrial function,1
+Lenalidomide,JAK/STAT ,1
+ICRF-187,Genetic and epigenetic interventions,1
+IGF-1,Insulin-like growth factors,1
+Sertraline ,GABAergic system,1
+Methylphenidate ,NotAvailable,1
+Guanfacine ,NotAvailable,1
+Melatonin,NotAvailable,1
+NAC,Glutamatergic system,1
+Vitamin D,Glutamatergic system,1
+Oxytocin ,GABAergic system,1
+Bumetanide ,GABAergic system,1
+Lovastatin,ERK/MAPK,1
+Arbaclofen,mGluR5 pathway,1
+Arbaclofen,GABAergic system,1
+Arbaclofen,Glutamergic system,1
+Trofinetide ,ERK/MAPK,1
+Trofinetide ,PI3K/AKT/mTOR,1
+BPN14770,NotAvailable,1
+Anavex,GABAergic system,1
+Atosiban,Oxytocin signaling pathway,1
+Cariprazine,GPCRs,1
+Memantine,NotAvailable,1
+Acamprosate,Glutamatergic system,1
+PUR,SHH,1
